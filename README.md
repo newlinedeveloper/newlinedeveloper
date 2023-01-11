@@ -123,10 +123,10 @@ CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
 CloudnLoud Twitter **https://twitter.com/cloudnloud**			  
 			     
 
-<br />
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+![AWS Managed blockchain service](AWS-managed-blockchain-banner.png)
 
 - [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
 - [MONGODB OVERVIEW](https://blog.cloudnloud.com/mongodb-overview)
