@@ -126,9 +126,16 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
+- [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
 ![AWS Managed blockchain service](AWS-managed-blockchain-banner.png)
 
-- [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
+- [INFRASTRUCTURE DIAGRAM AS CODE](https://blog.cloudnloud.com/infrastructure-digrams-as-code)
+
+
+- [INFRASTRUCTURE AS CODE - TERRAFORM](https://blog.cloudnloud.com/infrastructure-as-code-terraform)
+
+
+
 - [MONGODB OVERVIEW](https://blog.cloudnloud.com/mongodb-overview)
 - [MYSQL OVERVIEW](https://blog.cloudnloud.com/mysql-overview)
 - [NODE JS OVERVIEW](https://blog.cloudnloud.com/node-js-overview)
@@ -136,8 +143,8 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 - [MONOLITTHIC VS MICROSERVICE](https://blog.cloudnloud.com/monolithic-vs-microservice)
 - [MICROSERVICE ARCHITECTURE - USECASES](https://blog.cloudnloud.com/microservice-architecture-usecases)
 - [AZURE DEVOPS OVERVIEW](https://blog.cloudnloud.com/azure-devops-overview)
-- [INFRASTRUCTURE AS CODE - TERRAFORM](https://blog.cloudnloud.com/infrastructure-as-code-terraform)
-- [INFRASTRUCTURE DIAGRAM AS CODE](https://blog.cloudnloud.com/infrastructure-digrams-as-code)
+
+
 
 
 <!-- BLOG-POST-LIST:END -->
