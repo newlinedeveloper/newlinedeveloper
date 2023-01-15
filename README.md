@@ -129,6 +129,15 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 - [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
 ![AWS Managed blockchain service](AWS-managed-blockchain-banner.png)
 
+
+- [AWS Developer Tools - Part 1](https://blog.cloudnloud.com/aws-developer-tools-part-1)
+![AWS Developer Tools - Part 1](Developer-tools-1.png)
+
+
+- [AWS Developer Tools - Part 2](https://blog.cloudnloud.com/aws-developer-tools-part-2)
+![AWS Developer Tools - Part 2](Developer-tools-2.png)
+
+
 - [INFRASTRUCTURE DIAGRAM AS CODE](https://blog.cloudnloud.com/infrastructure-digrams-as-code)
 
 
