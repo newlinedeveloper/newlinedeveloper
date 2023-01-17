@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veerasolaiyappan</h1>
-<h3 align="center">Fullstack Blockchain developer</h3>
+<h3 align="center">Fullstack developer</h3>
 
-
+<br>
 
 - 👯 I’m looking to collaborate on **Fullstack, Blockchain, Cloud && Devops**
 
