@@ -10,11 +10,12 @@
 - 📫 How to reach me **newlinedeveloper@gmail.com**
 
 
+<br>
 
-#### TECHNICAL CONTRIBUTION && VOLUNTEERING
+### TECHNICAL CONTRIBUTION && VOLUNTEERING
 
 
-###### ROLE: Core Team Member
+#### ROLE: Core Team Member
 
 <P>
 I am being part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
