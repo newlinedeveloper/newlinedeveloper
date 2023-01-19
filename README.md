@@ -144,8 +144,6 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 
 - [INFRASTRUCTURE AS CODE - TERRAFORM](https://blog.cloudnloud.com/infrastructure-as-code-terraform)
 
-
-
 - [MONGODB OVERVIEW](https://blog.cloudnloud.com/mongodb-overview)
 - [MYSQL OVERVIEW](https://blog.cloudnloud.com/mysql-overview)
 - [NODE JS OVERVIEW](https://blog.cloudnloud.com/node-js-overview)
