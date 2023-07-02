@@ -27,28 +27,16 @@ The goal of our community is to bring together companies, leaders and profession
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
 </p>
-			  		     
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
-- [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
-![AWS Managed blockchain service](AWS-managed-blockchain-banner.png)
-
-
 - [AWS Developer Tools - Part 1](https://blog.cloudnloud.com/aws-developer-tools-part-1)
-![AWS Developer Tools - Part 1](Developer-tools-1.png)
-
-
 - [AWS Developer Tools - Part 2](https://blog.cloudnloud.com/aws-developer-tools-part-2)
-![AWS Developer Tools - Part 2](Developer-tools-2.png)
-
-
+- [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
 - [INFRASTRUCTURE DIAGRAM AS CODE](https://blog.cloudnloud.com/infrastructure-digrams-as-code)
-
-
 - [INFRASTRUCTURE AS CODE - TERRAFORM](https://blog.cloudnloud.com/infrastructure-as-code-terraform)
-
 - [MONGODB OVERVIEW](https://blog.cloudnloud.com/mongodb-overview)
 - [MYSQL OVERVIEW](https://blog.cloudnloud.com/mysql-overview)
 - [NODE JS OVERVIEW](https://blog.cloudnloud.com/node-js-overview)
