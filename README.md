@@ -28,9 +28,15 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
-<!-- ### Meetups and online events -->
+### Meetups and online events 
 
+- [AWS Techies Talk - Building Fullstack serverless application development using AWS Amplify](https://www.linkedin.com/events/techiestalk7058337477056475136/)
+  
+![AWS Techies Talk](/techies-talk.jpg)
 
+- [AWS CI / CD Automation](https://www.linkedin.com/events/fullstackgoseries-ci-cdautomati7076213847346343936)
+  
+![AWS CI/CD Automation](/aws-ci-cd.png)
 
 
 
