@@ -28,13 +28,20 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
+<!-- ### Meetups and online events -->
+
+
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
-- [AWS Developer Tools - Part 1](https://blog.cloudnloud.com/aws-developer-tools-part-1)
-- [AWS Developer Tools - Part 2](https://blog.cloudnloud.com/aws-developer-tools-part-2)
-- [AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
+- [AWS Cloud Services - AWS CI / CD Automation](https://medium.com/cloudnloud/aws-ci-cd-automation-a34a919a021c)
+- [AWS Cloud Services - Building Fullstack serverless application development using AWS Amplify](https://medium.com/@veerasolaiyappan/building-fullstack-serverless-application-development-using-aws-amplify-cb106385c554)
+- [AWS Cloud Services - AWS Developer Tools - Part 1](https://blog.cloudnloud.com/aws-developer-tools-part-1)
+- [AWS Cloud Services - AWS Developer Tools - Part 2](https://blog.cloudnloud.com/aws-developer-tools-part-2)
+- [AWS Cloud Services - AWS MANAGED BLOCKCHAIN SERVICE](https://blog.cloudnloud.com/why-your-business-should-consider-aws-managed-blockchain)
+  <!--
 - [INFRASTRUCTURE DIAGRAM AS CODE](https://blog.cloudnloud.com/infrastructure-digrams-as-code)
 - [INFRASTRUCTURE AS CODE - TERRAFORM](https://blog.cloudnloud.com/infrastructure-as-code-terraform)
 - [MONGODB OVERVIEW](https://blog.cloudnloud.com/mongodb-overview)
@@ -45,7 +52,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 - [MICROSERVICE ARCHITECTURE - USECASES](https://blog.cloudnloud.com/microservice-architecture-usecases)
 - [AZURE DEVOPS OVERVIEW](https://blog.cloudnloud.com/azure-devops-overview)
 
-
+  -->
 
 
 <!-- BLOG-POST-LIST:END -->
