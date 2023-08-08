@@ -107,12 +107,12 @@ Organizing and Hosting events for cloudnative tools
   <img alt="Dark" src="./elastic-meetup-3.jpeg" width="45%">
 </p>
 
-- [Elastic Mechine learning](https://www.linkedin.com/events/7051228242334138368/)
+**Elastic Mechine learning**
   
 <p align="center">
   <img alt="Light" src="./global-ai-1.jpg" width="45%">
 &nbsp; &nbsp; 
-  <img alt="Dark" src="./global-ai-1.jpg" width="45%">
+  <img alt="Dark" src="./global-ai-2.jpg" width="45%">
 
 </p>
 
