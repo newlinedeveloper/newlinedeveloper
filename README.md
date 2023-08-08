@@ -101,14 +101,10 @@ Organizing and Hosting events for cloudnative tools
 
 - [Observability Driven Development - K8s with ELK](https://community.elastic.co/events/details/elastic-chennai-presents-chennai-elastic-meetup-feb-2023-in-person/)
   
-![elastic meetup 1](/elastic-meetup-1.jpeg) ![elastic meetup 2](/elastic-meetup-2.jpeg) ![elastic meetup 3](/elastic-meetup-3.jpeg)
-
-
 <p align="center">
   <img alt="Light" src="./elastic-meetup-1.jpeg" width="45%">
 &nbsp; &nbsp; 
   <img alt="Dark" src="./elastic-meetup-3.jpeg" width="45%">
-
 </p>
 
 - [Elastic Mechine learning](https://www.linkedin.com/events/7051228242334138368/)
