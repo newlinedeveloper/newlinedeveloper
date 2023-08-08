@@ -12,7 +12,7 @@
 
 <br>
 
-### TECHNICAL CONTRIBUTION && VOLUNTEERING
+### Technical contribution & Volunteering
 
 **Cloudnloud Tech Community**
 
@@ -31,6 +31,9 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
+
+***
+
 **Cloudnative Europe & UK Meetup group**
 #### ROLE: Co-organiser
 
@@ -40,6 +43,8 @@ Meetup Link : [https://www.meetup.com/cloud-native-europe-uk/](https://www.meetu
 Organizing and Hosting events for cloudnative tools
 
 </p>
+
+---
 
 ### Meetups and online events 
 
@@ -94,9 +99,29 @@ Organizing and Hosting events for cloudnative tools
 ![Fullstack Golang series - Golang basics](/golang-basics.png)
 
 
+- [Observability Driven Development - K8s with ELK](https://community.elastic.co/events/details/elastic-chennai-presents-chennai-elastic-meetup-feb-2023-in-person/)
+  
+![elastic meetup 1](/elastic-meetup-1.jpeg) ![elastic meetup 2](/elastic-meetup-2.jpeg) ![elastic meetup 3](/elastic-meetup-3.jpeg)
 
 
+<p align="center">
+  <img alt="Light" src="./elastic-meetup-1.jpeg" width="45%">
+&nbsp; &nbsp; 
+  <img alt="Dark" src="./elastic-meetup-3.jpeg" width="45%">
 
+</p>
+
+- [Elastic Mechine learning](https://www.linkedin.com/events/7051228242334138368/)
+  
+<p align="center">
+  <img alt="Light" src="./global-ai-1.jpg" width="45%">
+&nbsp; &nbsp; 
+  <img alt="Dark" src="./global-ai-1.jpg" width="45%">
+
+</p>
+
+
+---
 
 
 ### Blogs posts
@@ -120,7 +145,7 @@ Organizing and Hosting events for cloudnative tools
 
 <!-- BLOG-POST-LIST:END -->
 
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
