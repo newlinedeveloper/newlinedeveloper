@@ -107,7 +107,7 @@ Organizing and Hosting events for cloudnative tools
   <img alt="Dark" src="./elastic-meetup-3.jpeg" width="45%">
 </p>
 
-**Elastic Mechine learning**
+- **Elastic Mechine learning**
   
 <p align="center">
   <img alt="Light" src="./global-ai-1.jpg" width="45%">
