@@ -14,8 +14,11 @@
 
 ### TECHNICAL CONTRIBUTION && VOLUNTEERING
 
+**Cloudnloud Tech Community**
 
-#### ROLE: Core Team Member ( Developer Advocate)
+#### ROLE: Community Developer Lead ( Developer Advocate)
+
+community Link here : [CloudnLoud Tech Community](https://github.com/cloudnloud)
 
 <P>
 I am being part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
@@ -28,7 +31,42 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
+**Cloudnative Europe & UK Meetup group**
+#### ROLE: Co-organiser
+
+Meetup Link : [https://www.meetup.com/cloud-native-europe-uk/](https://www.meetup.com/cloud-native-europe-uk/)
+
+<P>
+Organizing and Hosting events for cloudnative tools
+
+</p>
+
 ### Meetups and online events 
+
+- [Kubernetes Deployment Strategies](https://www.meetup.com/cloud-native-europe-uk/events/295152115/)
+  
+![AWS Techies Talk](/k8s-deployment-strategies.png)
+
+
+- [Kubernetes logging with EFK](https://www.meetup.com/cloud-native-europe-uk/events/295006917/)
+  
+![Kubernetes logging with EFK](/k8s-efk.png)
+
+
+- [Kubernetes Monitoring with Prometheus and Grafana](https://www.meetup.com/cloud-native-europe-uk/events/294843583/)
+  
+![Kubernetes Monitoring with Prometheus and Grafana](/k8s-prome-grafana.png)
+
+
+- [Kubernetes Deployment with Helm](https://www.meetup.com/cloud-native-europe-uk/events/294843478/)
+  
+![Kubernetes Deployment with Helm](/k8s-helm.png)
+
+
+- [Kubernetes for Developers](https://www.meetup.com/cloud-native-europe-uk/events/294621595/)
+  
+![AWS Techies Talk](/kubernetes-for-developer-poster.png)
+
 
 - [AWS Techies Talk - Building Fullstack serverless application development using AWS Amplify](https://www.linkedin.com/events/techiestalk7058337477056475136/)
   
@@ -39,9 +77,32 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 ![AWS CI/CD Automation](/aws-ci-cd.png)
 
 
+- [Docker for Developers](https://www.linkedin.com/events/7072626330596458496/)
+  
+![AWS CI/CD Automation](/docker-for-developers.png)
+
+
+
+- [Fullstack Golang series - React js & Golang API Integration](https://www.linkedin.com/events/7067542078460764160/)
+  
+![Fullstack Golang series - React js & Golang API Integration](/reactjs-golang-api.png)
+
+
+
+- [Fullstack Golang series - Golang basics](https://www.linkedin.com/events/7051228242334138368/)
+  
+![Fullstack Golang series - Golang basics](/golang-basics.png)
+
+
+
+
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Kubernetes: A Guide for Developers](https://medium.com/cloudnloud/demystifying-kubernetes-a-guide-for-developers-df366e3c67fe)
+- [🐳 Is Docker Right for Your Application?](https://medium.com/cloudnloud/is-docker-right-for-your-application-db8ce68ac973)
 - [AWS Cloud Services - AWS CI / CD Automation](https://medium.com/cloudnloud/aws-ci-cd-automation-a34a919a021c)
 - [AWS Cloud Services - Building Fullstack serverless application development using AWS Amplify](https://medium.com/@veerasolaiyappan/building-fullstack-serverless-application-development-using-aws-amplify-cb106385c554)
 - [AWS Cloud Services - AWS Developer Tools - Part 1](https://blog.cloudnloud.com/aws-developer-tools-part-1)
