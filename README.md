@@ -14,33 +14,13 @@
 
 ### Technical contribution & Volunteering
 
-**Cloudnloud Tech Community**
+**Cloud Native Madurai**
 
-#### ROLE: Community Developer Lead ( Developer Advocate)
-
-community Link here : [CloudnLoud Tech Community](https://github.com/cloudnloud)
-
-<P>
-I am being part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
-
-The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
-
-The goal of our community is to bring together companies, leaders and professionals from around the world to share ideas, socialize and work together on advancing the present and future success of the project. We are part of this for good cause to save millions of Cancer children.
-
-At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
-
-</p>
-
-
-***
-
-**Cloudnative Europe & UK Meetup group**
 #### ROLE: Co-organiser
 
-Meetup Link : [https://www.meetup.com/cloud-native-europe-uk/](https://www.meetup.com/cloud-native-europe-uk/)
-
+Community group link : https://community.cncf.io/madurai/
 <P>
-Organizing and Hosting events for cloudnative tools
+Organizing and Hosting events for cloud-native tools
 
 </p>
 
@@ -107,7 +87,7 @@ Organizing and Hosting events for cloudnative tools
   <img alt="Dark" src="./elastic-meetup-3.jpeg" width="45%">
 </p>
 
-- **Elastic Mechine learning**
+- **Elastic Machine learning**
   
 <p align="center">
   <img alt="Light" src="./global-ai-1.jpg" width="45%">
