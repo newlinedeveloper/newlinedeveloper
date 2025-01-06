@@ -13,11 +13,55 @@
 
 ### Meetups and online events 
 
-### Master AWS CDK Hands-on Session
+#### Master AWS CDK Hands-on Session
 
 [![AWS Developer Series Playlist](https://i.ytimg.com/vi/iNnnypPAHag/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGyq3xCi2m2)
 
+
+1. **AWS CDK Introduction**  
+   [Watch Video](https://www.youtube.com/watch?v=iNnnypPAHag)
+
+2. **Mastering AWS CDK - AWS Lambda**  
+   [Watch Video](https://www.youtube.com/watch?v=SY3VRwC41Gw)
+
+3. **Mastering AWS CDK - API Gateway**  
+   [Watch Video](https://www.youtube.com/watch?v=hVnCpv-xDtQ)
+
+4. **AWS DynamoDB and CRUD Operation - AWS CDK**  
+   [Watch Video](https://www.youtube.com/watch?v=gpW1zsGMEP0)
+
+5. **Build AWS Serverless Application - AWS CDK**  
+   [Watch Video](https://www.youtube.com/watch?v=vzcplKSq2C4)
+
+6. **Secure your Rest APIs using Cognito - AWS CDK**  
+   [Watch Video](https://www.youtube.com/watch?v=EjEM-VDpCUo)
+
+7. **Build Event Driven Architecture - AWS CDK - Lambda and S3**  
+   [Watch Video](https://www.youtube.com/watch?v=sAhE6uKfguA)
+
+8. **Build Event Driven Architecture - AWS CDK - Lambda, SNS, and S3**  
+   [Watch Video](https://www.youtube.com/watch?v=pYZVO9bUwOA)
+
+9. **Build Event Driven Architecture - AWS CDK - Lambda, SQS, and S3**  
+   [Watch Video](https://www.youtube.com/watch?v=kCCJXoo3Gk8)
+
+10. **Build Event Driven Architecture - AWS CDK - Lambda, SNS, SQS, and S3**  
+    [Watch Video](https://www.youtube.com/watch?v=lCwmk7rn9Ko)
+
+11. **Build Event Driven Architecture - AWS CDK - Lambda and EventBridge**  
+    [Watch Video](https://www.youtube.com/watch?v=0-FD5EMl-oM)
+
+12. **Workflow Orchestration - AWS Step Function and AWS CDK**  
+    [Watch Video](https://www.youtube.com/watch?v=VuTy9ve2XX8)
+
+13. **Building Realtime Streaming Apps Leveraging AWS Kinesis and AWS CDK**  
+    [Watch Video](https://www.youtube.com/watch?v=kgx0bbyGO5Y)
+
 ---
+
+#### Masterclass AWS CDK - CNCF Madurai  [Event link](https://community.cncf.io/events/details/cncf-madurai-presents-masterclass-aws-cdk/)
+
+![image](https://github.com/user-attachments/assets/92758bb8-328c-4c17-bd15-5f3b0b43ae0b)
 
 
 ### Blogs posts
