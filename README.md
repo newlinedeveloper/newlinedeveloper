@@ -12,7 +12,7 @@
 
 ## Meetups and online events 
 
-#### Master AWS CDK Hands-on Session
+### Master AWS CDK Hands-on Session
 
 1. **AWS CDK Introduction** (Published on: August 10, 2023)  
    [![AWS CDK Introduction](https://img.youtube.com/vi/iNnnypPAHag/0.jpg)](https://www.youtube.com/watch?v=iNnnypPAHag)  
@@ -65,10 +65,6 @@
 13. **Building Realtime Streaming Apps Leveraging AWS Kinesis and AWS CDK** (Published on: November 2, 2023)  
     [![Building Realtime Streaming Apps Leveraging AWS Kinesis and AWS CDK](https://img.youtube.com/vi/kgx0bbyGO5Y/0.jpg)](https://www.youtube.com/watch?v=kgx0bbyGO5Y)  
     [Watch Video](https://www.youtube.com/watch?v=kgx0bbyGO5Y)
-
----
-
-This format includes the publication date next to each video header, maintaining a clear and readable structure for your GitHub README. Let me know if you need further customization!
 
 ---
 
