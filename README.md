@@ -58,11 +58,6 @@
 
 ---
 
-#### Masterclass AWS CDK - CNCF Madurai  [Event link](https://community.cncf.io/events/details/cncf-madurai-presents-masterclass-aws-cdk/)
-
-![image](https://github.com/user-attachments/assets/92758bb8-328c-4c17-bd15-5f3b0b43ae0b)
-
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Build Your Own Reusable CDK Construct](https://medium.com/@veerasolaiyappan/how-to-build-your-own-reusable-cdk-construct-72576add462a)
