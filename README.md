@@ -13,77 +13,9 @@
 
 ### Meetups and online events 
 
+### Master AWS CDK Hands-on Session
+
 [![AWS Developer Series Playlist](https://i.ytimg.com/vi/iNnnypPAHag/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGyq3xCi2m2)
-
-
-- [Kubernetes Deployment Strategies](https://www.meetup.com/cloud-native-europe-uk/events/295152115/)
-  
-![AWS Techies Talk](/k8s-deployment-strategies.png)
-
-
-- [Kubernetes logging with EFK](https://www.meetup.com/cloud-native-europe-uk/events/295006917/)
-  
-![Kubernetes logging with EFK](/k8s-efk.png)
-
-
-- [Kubernetes Monitoring with Prometheus and Grafana](https://www.meetup.com/cloud-native-europe-uk/events/294843583/)
-  
-![Kubernetes Monitoring with Prometheus and Grafana](/k8s-prome-grafana.png)
-
-
-- [Kubernetes Deployment with Helm](https://www.meetup.com/cloud-native-europe-uk/events/294843478/)
-  
-![Kubernetes Deployment with Helm](/k8s-helm.png)
-
-
-- [Kubernetes for Developers](https://www.meetup.com/cloud-native-europe-uk/events/294621595/)
-  
-![AWS Techies Talk](/kubernetes-for-developer-poster.png)
-
-
-- [AWS Techies Talk - Building Fullstack serverless application development using AWS Amplify](https://www.linkedin.com/events/techiestalk7058337477056475136/)
-  
-![AWS Techies Talk](/techies-talk.jpg)
-
-- [AWS CI / CD Automation](https://www.linkedin.com/events/fullstackgoseries-ci-cdautomati7076213847346343936)
-  
-![AWS CI/CD Automation](/aws-ci-cd.png)
-
-
-- [Docker for Developers](https://www.linkedin.com/events/7072626330596458496/)
-  
-![AWS CI/CD Automation](/docker-for-developers.png)
-
-
-
-- [Fullstack Golang series - React js & Golang API Integration](https://www.linkedin.com/events/7067542078460764160/)
-  
-![Fullstack Golang series - React js & Golang API Integration](/reactjs-golang-api.png)
-
-
-
-- [Fullstack Golang series - Golang basics](https://www.linkedin.com/events/7051228242334138368/)
-  
-![Fullstack Golang series - Golang basics](/golang-basics.png)
-
-
-- [Observability Driven Development - K8s with ELK](https://community.elastic.co/events/details/elastic-chennai-presents-chennai-elastic-meetup-feb-2023-in-person/)
-  
-<p align="center">
-  <img alt="Light" src="./elastic-meetup-1.jpeg" width="45%">
-&nbsp; &nbsp; 
-  <img alt="Dark" src="./elastic-meetup-3.jpeg" width="45%">
-</p>
-
-- **Elastic Machine learning**
-  
-<p align="center">
-  <img alt="Light" src="./global-ai-1.jpg" width="45%">
-&nbsp; &nbsp; 
-  <img alt="Dark" src="./global-ai-2.jpg" width="45%">
-
-</p>
-
 
 ---
 
