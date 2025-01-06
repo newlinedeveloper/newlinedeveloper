@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Veerasolaiyappan</h1>
 <h3 align="center">Fullstack developer</h3>
-
 <br>
 
-- 👯 I’m looking to collaborate on **Fullstack, Blockchain, Cloud && Devops**
+- with **5 years** of hands-on experience in developing **full-stack applications and data pipelines** using a variety of technologies, including **Golang, Python, React.js, Node.js, Docker, Kubernetes, AWS, Azure, and Terraform**. My work spans multiple domains such as **GIS, supply chain, e-commerce, and DeFi**, allowing me to tackle diverse challenges with innovative solutions.
 
-- 🤝 I’m looking to help in **Web and Mobile application development**
+- In addition to my technical expertise in project management, equipping me with the strategic and operational insights necessary to drive projects from inception to completion efficiently. My focus on continuous learning and adaptability has enabled me to excel in fast-paced, collaborative environments, contributing effectively to both technical and managerial aspects.
 
-- 📫 How to reach me **newlinedeveloper@gmail.com**
+- I'm eager to bring my unique blend of technical proficiency and project management acumen to your organization and look forward to making meaningful contributions to your team.
 
 ---
 
-### Meetups and online events 
+## Meetups and online events 
 
 #### Master AWS CDK Hands-on Session
 
@@ -69,6 +68,8 @@
 - [How to Build Your Own Reusable CDK Construct](https://medium.com/@veerasolaiyappan/how-to-build-your-own-reusable-cdk-construct-72576add462a)
 - [Building a CI/CD Pipeline for AWS CDK Applications: A Step-by-Step Guide](https://medium.com/@veerasolaiyappan/building-a-ci-cd-pipeline-for-aws-cdk-applications-a-step-by-step-guide-3c994c287896)
 - [Mastering AWS CDK: Simplify Your Infrastructure as Code (IaC)](https://medium.com/@veerasolaiyappan/mastering-aws-cdk-simplify-your-infrastructure-as-code-iac-d98717a3a6bb)
+- [Workflow Wizardry: Demystifying AWS Step Functions for Developers](https://medium.com/@veerasolaiyappan/workflow-wizardry-demystifying-aws-step-functions-for-developers-61453116ec3a)
+- [Mastering AWS CloudFormation: Infrastructure as Code Made Easy](https://medium.com/@veerasolaiyappan/mastering-aws-cloudformation-infrastructure-as-code-made-easy-a1f8c0cf7326)
 - [Demystifying Kubernetes: A Guide for Developers](https://medium.com/cloudnloud/demystifying-kubernetes-a-guide-for-developers-df366e3c67fe)
 - [🐳 Is Docker Right for Your Application?](https://medium.com/cloudnloud/is-docker-right-for-your-application-db8ce68ac973)
 - [AWS Cloud Services - AWS CI / CD Automation](https://medium.com/cloudnloud/aws-ci-cd-automation-a34a919a021c)
