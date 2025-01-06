@@ -9,24 +9,12 @@
 
 - 📫 How to reach me **newlinedeveloper@gmail.com**
 
-
-<br>
-
-### Technical contribution & Volunteering
-
-**Cloud Native Madurai**
-
-#### ROLE: Co-organiser
-
-Community group link : https://community.cncf.io/madurai/
-<P>
-Organizing and Hosting events for cloud-native tools
-
-</p>
-
 ---
 
 ### Meetups and online events 
+
+[![AWS Developer Series Playlist](https://i.ytimg.com/vi/iNnnypPAHag/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGyq3xCi2m2)
+
 
 - [Kubernetes Deployment Strategies](https://www.meetup.com/cloud-native-europe-uk/events/295152115/)
   
@@ -102,6 +90,9 @@ Organizing and Hosting events for cloud-native tools
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Own Reusable CDK Construct](https://medium.com/@veerasolaiyappan/how-to-build-your-own-reusable-cdk-construct-72576add462a)
+- [Building a CI/CD Pipeline for AWS CDK Applications: A Step-by-Step Guide](https://medium.com/@veerasolaiyappan/building-a-ci-cd-pipeline-for-aws-cdk-applications-a-step-by-step-guide-3c994c287896)
+- [Mastering AWS CDK: Simplify Your Infrastructure as Code (IaC)](https://medium.com/@veerasolaiyappan/mastering-aws-cdk-simplify-your-infrastructure-as-code-iac-d98717a3a6bb)
 - [Demystifying Kubernetes: A Guide for Developers](https://medium.com/cloudnloud/demystifying-kubernetes-a-guide-for-developers-df366e3c67fe)
 - [🐳 Is Docker Right for Your Application?](https://medium.com/cloudnloud/is-docker-right-for-your-application-db8ce68ac973)
 - [AWS Cloud Services - AWS CI / CD Automation](https://medium.com/cloudnloud/aws-ci-cd-automation-a34a919a021c)
