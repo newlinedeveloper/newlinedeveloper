@@ -14,47 +14,61 @@
 
 #### Master AWS CDK Hands-on Session
 
-[![AWS Developer Series Playlist](https://i.ytimg.com/vi/iNnnypPAHag/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGyq3xCi2m2)
-
-
-1. **AWS CDK Introduction**  
+1. **AWS CDK Introduction** (Published on: August 10, 2023)  
+   [![AWS CDK Introduction](https://img.youtube.com/vi/iNnnypPAHag/0.jpg)](https://www.youtube.com/watch?v=iNnnypPAHag)  
    [Watch Video](https://www.youtube.com/watch?v=iNnnypPAHag)
 
-2. **Mastering AWS CDK - AWS Lambda**  
+2. **Mastering AWS CDK - AWS Lambda** (Published on: August 17, 2023)  
+   [![Mastering AWS CDK - AWS Lambda](https://img.youtube.com/vi/SY3VRwC41Gw/0.jpg)](https://www.youtube.com/watch?v=SY3VRwC41Gw)  
    [Watch Video](https://www.youtube.com/watch?v=SY3VRwC41Gw)
 
-3. **Mastering AWS CDK - API Gateway**  
+3. **Mastering AWS CDK - API Gateway** (Published on: August 24, 2023)  
+   [![Mastering AWS CDK - API Gateway](https://img.youtube.com/vi/hVnCpv-xDtQ/0.jpg)](https://www.youtube.com/watch?v=hVnCpv-xDtQ)  
    [Watch Video](https://www.youtube.com/watch?v=hVnCpv-xDtQ)
 
-4. **AWS DynamoDB and CRUD Operation - AWS CDK**  
+4. **AWS DynamoDB and CRUD Operation - AWS CDK** (Published on: August 31, 2023)  
+   [![AWS DynamoDB and CRUD Operation - AWS CDK](https://img.youtube.com/vi/gpW1zsGMEP0/0.jpg)](https://www.youtube.com/watch?v=gpW1zsGMEP0)  
    [Watch Video](https://www.youtube.com/watch?v=gpW1zsGMEP0)
 
-5. **Build AWS Serverless Application - AWS CDK**  
+5. **Build AWS Serverless Application - AWS CDK** (Published on: September 7, 2023)  
+   [![Build AWS Serverless Application - AWS CDK](https://img.youtube.com/vi/vzcplKSq2C4/0.jpg)](https://www.youtube.com/watch?v=vzcplKSq2C4)  
    [Watch Video](https://www.youtube.com/watch?v=vzcplKSq2C4)
 
-6. **Secure your Rest APIs using Cognito - AWS CDK**  
+6. **Secure your Rest APIs using Cognito - AWS CDK** (Published on: September 14, 2023)  
+   [![Secure your Rest APIs using Cognito - AWS CDK](https://img.youtube.com/vi/EjEM-VDpCUo/0.jpg)](https://www.youtube.com/watch?v=EjEM-VDpCUo)  
    [Watch Video](https://www.youtube.com/watch?v=EjEM-VDpCUo)
 
-7. **Build Event Driven Architecture - AWS CDK - Lambda and S3**  
+7. **Build Event Driven Architecture - AWS CDK - Lambda and S3** (Published on: September 21, 2023)  
+   [![Build Event Driven Architecture - AWS CDK - Lambda and S3](https://img.youtube.com/vi/sAhE6uKfguA/0.jpg)](https://www.youtube.com/watch?v=sAhE6uKfguA)  
    [Watch Video](https://www.youtube.com/watch?v=sAhE6uKfguA)
 
-8. **Build Event Driven Architecture - AWS CDK - Lambda, SNS, and S3**  
+8. **Build Event Driven Architecture - AWS CDK - Lambda, SNS, and S3** (Published on: September 28, 2023)  
+   [![Build Event Driven Architecture - AWS CDK - Lambda, SNS, and S3](https://img.youtube.com/vi/pYZVO9bUwOA/0.jpg)](https://www.youtube.com/watch?v=pYZVO9bUwOA)  
    [Watch Video](https://www.youtube.com/watch?v=pYZVO9bUwOA)
 
-9. **Build Event Driven Architecture - AWS CDK - Lambda, SQS, and S3**  
+9. **Build Event Driven Architecture - AWS CDK - Lambda, SQS, and S3** (Published on: October 5, 2023)  
+   [![Build Event Driven Architecture - AWS CDK - Lambda, SQS, and S3](https://img.youtube.com/vi/kCCJXoo3Gk8/0.jpg)](https://www.youtube.com/watch?v=kCCJXoo3Gk8)  
    [Watch Video](https://www.youtube.com/watch?v=kCCJXoo3Gk8)
 
-10. **Build Event Driven Architecture - AWS CDK - Lambda, SNS, SQS, and S3**  
+10. **Build Event Driven Architecture - AWS CDK - Lambda, SNS, SQS, and S3** (Published on: October 12, 2023)  
+    [![Build Event Driven Architecture - AWS CDK - Lambda, SNS, SQS, and S3](https://img.youtube.com/vi/lCwmk7rn9Ko/0.jpg)](https://www.youtube.com/watch?v=lCwmk7rn9Ko)  
     [Watch Video](https://www.youtube.com/watch?v=lCwmk7rn9Ko)
 
-11. **Build Event Driven Architecture - AWS CDK - Lambda and EventBridge**  
+11. **Build Event Driven Architecture - AWS CDK - Lambda and EventBridge** (Published on: October 19, 2023)  
+    [![Build Event Driven Architecture - AWS CDK - Lambda and EventBridge](https://img.youtube.com/vi/0-FD5EMl-oM/0.jpg)](https://www.youtube.com/watch?v=0-FD5EMl-oM)  
     [Watch Video](https://www.youtube.com/watch?v=0-FD5EMl-oM)
 
-12. **Workflow Orchestration - AWS Step Function and AWS CDK**  
+12. **Workflow Orchestration - AWS Step Function and AWS CDK** (Published on: October 26, 2023)  
+    [![Workflow Orchestration - AWS Step Function and AWS CDK](https://img.youtube.com/vi/VuTy9ve2XX8/0.jpg)](https://www.youtube.com/watch?v=VuTy9ve2XX8)  
     [Watch Video](https://www.youtube.com/watch?v=VuTy9ve2XX8)
 
-13. **Building Realtime Streaming Apps Leveraging AWS Kinesis and AWS CDK**  
+13. **Building Realtime Streaming Apps Leveraging AWS Kinesis and AWS CDK** (Published on: November 2, 2023)  
+    [![Building Realtime Streaming Apps Leveraging AWS Kinesis and AWS CDK](https://img.youtube.com/vi/kgx0bbyGO5Y/0.jpg)](https://www.youtube.com/watch?v=kgx0bbyGO5Y)  
     [Watch Video](https://www.youtube.com/watch?v=kgx0bbyGO5Y)
+
+---
+
+This format includes the publication date next to each video header, maintaining a clear and readable structure for your GitHub README. Let me know if you need further customization!
 
 ---
 
